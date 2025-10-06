@@ -1,0 +1,16 @@
+
+
+.family-tree div {
+    border: 2px solid goldenrod;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: skyblue;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
